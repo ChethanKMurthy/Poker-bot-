@@ -29,7 +29,7 @@ Welcome to the Texas Hold'em Poker Bot repository! This Python-based bot calcula
 - **Name:** Chethan Keshav Murthy
 - **Email:** chethankeshavmurthy@gmail.com
 - **Phone:** +91 8971528662 / +91 8971528663
-- "सा वि द्या या वि मुक्तये"
+- "सा विद्या या विमुक्तये"
   
 
 Anugrahatosmi
